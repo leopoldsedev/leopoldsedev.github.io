@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on leopoldse.dev</title>
-    <link>https://leopoldsedev.github.io/tags/</link>
+    <link>https://leopoldse.dev/tags/</link>
     <description>Recent content in Tags on leopoldse.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://leopoldsedev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://leopoldse.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
